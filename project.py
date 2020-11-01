@@ -9,6 +9,7 @@ class bin():
         self.maxHP=hp
 bin1=bin(random.randint(30,60),random.randint(2,5))
 bin2=bin(random.randint(20,50),random.randint(1,4))
+print("第"+str(random.randint(1,8))+"列，第"+str(random.randint(1,6))+"行的同学被选中成为玩家"
 print()
 print("————————————————")
 print("游戏开始")
